@@ -221,3 +221,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Coursework data, local settings and generated files
+.venv/
+.ipynb_checkpoints/
+data/
+datasets/
+rgbd-dataset-crop/
+rgbd-dataset-processed/
+*.pth
+*.pt
+*.ckpt
+.env.*
+*.tmp
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+model,epoch,test_accuracy_pct
+CustomCNN,1,53.99
+CustomCNN,2,60.52
+CustomCNN,3,67.45
+CustomCNN,4,72.88
+CustomCNN,5,79.52
+CustomCNN,6,88.63
+CustomCNN,7,86.92
+CustomCNN,8,93.38
+CustomCNN,9,95.15
+CustomCNN,10,95.78
